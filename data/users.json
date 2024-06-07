@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "first_name": "REDDYKALA",
+      "last_name": "T",
+      "age": 23
+    },
+    {
+      "first_name": "SNEHA",
+      "last_name": "V",
+      "age": 24
+    },
+    {
+      "first_name": "MOUNIKA",
+      "last_name": "K",
+      "age": 24
+    },
+    {
+      "first_name": "CHINNI",
+      "last_name": "T",
+      "age": 23
+    },
+    {
+      "first_name": "SOWMYA",
+      "last_name": "M",
+      "age": 23
+    },
+    {
+      "first_name": "NIKHILA",
+      "last_name": "D",
+      "age": 25
+    },
+    {
+      "first_name": "TRIVENI",
+      "last_name": "P",
+      "age": 24
+    },
+    {
+      "first_name": "SANJANA",
+      "last_name": "L",
+      "age": 23
+    }
+  ]
+}
